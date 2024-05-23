@@ -41,7 +41,7 @@
       <div class="swiper-wrapper">
         <!-- Slides -->
         <div class="swiper-slide">
-          <img src="https://via.placeholder.com/600x400" alt="Slide 1" />
+          <img src="https://via.placeholder.com/1000x400" alt="Slide 1" />
         </div>
         <div class="swiper-slide">
           <img src="https://via.placeholder.com/600x400" alt="Slide 2" />
